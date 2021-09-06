@@ -1,4 +1,4 @@
 - 👋 Hi, I’m Mika Hoppe
-- 👀 I’m interested in Web-Front-End-Development, Science and Clean Code
+- 👀 I’m interested in Frontend-Development, Science and Clean Code
 - 🌱 I’m currently learning ReactJS and Redux
 - 📫 How to reach me mika.hoppe@studium.fernuni-hagen.de
